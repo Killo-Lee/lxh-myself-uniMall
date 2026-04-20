@@ -1,0 +1,1 @@
+<view><image class="c-logo" src="http://img-test.gz-yami.com/mini/logo.jpg"></image><view class="title">mall4j</view><view class="msg">申请获得你的公开信息（昵称、头像等）</view><button color="#eb2444" open-type="getUserInfo" lang="zh_CN" data-event-opts="{{[['getuserinfo',[['onGotUserInfo',['$event']]]]]}}" bindgetuserinfo="__e">微信授权</button></view>
